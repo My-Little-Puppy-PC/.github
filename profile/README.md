@@ -14,13 +14,9 @@ With a cozy atmosphere, easy controls, and a focus on interaction and routine, M
 
 ## Game Preview
 
-![My Little Puppy Gameplay](https://example.com/images/my-little-puppy-main.png)
+![My Little Puppy Gameplay](https://i.ytimg.com/vi/sHi6U9AEAMM/maxresdefault.jpg)
 
 Take care of your puppy through feeding, interaction, and daily activities in a calm environment.
-
-![My Little Puppy Customization](https://example.com/images/my-little-puppy-custom.png)
-
-Customize your pet and personalize the environment to create a unique experience.
 
 ---
 
